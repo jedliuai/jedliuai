@@ -27,5 +27,5 @@ Python · TypeScript · PowerShell · HTML
 - Docs: https://docs.jedliuai.com
 - YouTube: https://www.youtube.com/@jedliuai
 - X: https://x.com/Jedliu88
-- Bilibili: https://space.bilibili.com/3546868467303054
-- Douyin: https://v.douyin.com/L5y3E3H9Pdc/
+- Bilibili: https://space.bilibili.com/3690973718645706
+- Douyin: https://v.douyin.com/hYYteZCLLKQ/
